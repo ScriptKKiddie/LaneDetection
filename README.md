@@ -1,9 +1,9 @@
-#Lane Detection Python 3
+# Lane Detection Python 3
 
-##Modified By Shobhit Sharma (ScriptKKiddie)
-##Date Modified : March 21, 2020
-##GitHub : https://www.github.com/ScriptKKiddie/LaneDetection
-##Python Version : 3
+## #Modified By Shobhit Sharma (ScriptKKiddie)
+## #Date Modified : March 21, 2020
+## #GitHub : https://www.github.com/ScriptKKiddie/LaneDetection
+## #Python Version : 3
 
 This is the write-up for Lane Detection Project.
 The folder contains the following 4 files -
